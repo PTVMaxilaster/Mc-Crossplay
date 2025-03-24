@@ -103,16 +103,16 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "mexico-improve.gl.at.ply.gg",
+          "assigned_domain": "apr-punch.gl.at.ply.gg",
           "assigned_srv": null,
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "7242aa15-6439-44c0-9d8c-69bfe81056b7",
+          "id": "20c8cb01-70b4-4daa-bfc5-b9e975b7c1ef",
           "ip_hostname": "22.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 1375,
-          "port_start": 1374,
+          "port_end": 2121,
+          "port_start": 2119,
           "region": "global",
           "static_ip4": "147.185.221.22",
           "static_ip6": "2602:fbaf:0:1::16",
@@ -120,23 +120,23 @@
         },
         "status": "allocated"
       },
-      "created_at": "2025-03-24T16:42:49.044414Z",
+      "created_at": "2025-03-24T17:28:50.983596Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "a6700db5-ad16-4f23-8e9e-a07210d96819",
+      "id": "0841cf95-22af-4bb9-a6b1-97c2ba9f1c43",
       "name": "unnamed",
       "origin": {
         "data": {
           "agent_id": "5b765785-46e6-4823-b427-df1d2ac02a02",
           "agent_name": "from-key-77b9",
           "local_ip": "127.0.0.1",
-          "local_port": 1374
+          "local_port": 1293
         },
         "type": "agent"
       },
-      "port_count": 1,
+      "port_count": 2,
       "port_type": "udp",
       "proxy_protocol": null,
       "ratelimit": {
@@ -149,7 +149,7 @@
   ],
   "udp_alloc": {
     "allowed": 6,
-    "claimed": 2,
-    "desired": 2
+    "claimed": 3,
+    "desired": 3
   }
 }
