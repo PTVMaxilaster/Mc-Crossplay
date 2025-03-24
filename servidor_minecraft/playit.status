@@ -362,3 +362,10 @@ TUNNELS
 cameras-media.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 but-handling.gl.at.ply.gg:1293 => 127.0.0.1:3072 (minecraft-bedrock)
 mexico-improve.gl.at.ply.gg:1374 => 127.0.0.1:1293 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742836071497 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+cameras-media.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+but-handling.gl.at.ply.gg:1293 => 127.0.0.1:3072 (minecraft-bedrock)
+mexico-improve.gl.at.ply.gg:1374 => 127.0.0.1:1293 (proto: Udp, port count: 1)
