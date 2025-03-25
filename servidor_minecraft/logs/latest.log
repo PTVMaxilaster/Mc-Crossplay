@@ -93,3 +93,15 @@
 [15:53:08] [Server thread/INFO]: .Gabo_PK6665 has made the advancement [Stone Age]
 [15:54:10] [Server thread/INFO]: Set the time to 1000
 [15:54:54] [Server thread/INFO]: .Gabo_PK6665 has made the advancement [Getting an Upgrade]
+[15:55:38] [Server thread/INFO]: Unknown or incomplete command, see below for error
+wheater clear<--[HERE]
+[15:55:47] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/wheater clear<--[HERE]
+[15:56:08] [Server thread/INFO]: Set the weather to clear
+[15:56:14] [Server thread/INFO]: Incorrect argument for command
+time ser day<--[HERE]
+[15:56:24] [Server thread/INFO]: Set the time to 1000
+[15:59:22] [localSession-7-2/INFO]: [Geyser-Spigot] Gabo PK6665 has disconnected from the Java server because of Bedrock client disconnected
+[15:59:22] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Gabo_PK6665 disconnected
+[15:59:22] [Server thread/INFO]: .Gabo_PK6665 lost connection: Disconnected
+[15:59:22] [Server thread/INFO]: .Gabo_PK6665 left the game
