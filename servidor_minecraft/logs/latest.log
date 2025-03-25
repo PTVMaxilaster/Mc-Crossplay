@@ -105,3 +105,43 @@ time ser day<--[HERE]
 [15:59:22] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Gabo_PK6665 disconnected
 [15:59:22] [Server thread/INFO]: .Gabo_PK6665 lost connection: Disconnected
 [15:59:22] [Server thread/INFO]: .Gabo_PK6665 left the game
+[16:29:51] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Maxilaster
+[16:29:51] [localSession-7-1/INFO]: [Geyser-Spigot] Maxilaster (logged in as: Maxilaster) has connected to the Java server
+[16:29:51] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Maxilaster joined (UUID: 00000000-0000-0000-0009-01f17765c227)
+[16:29:51] [Server thread/INFO]: .Maxilaster joined the game
+[16:29:51] [Server thread/INFO]: .Maxilaster[/127.0.0.1:0] logged in with entity id 1705 at ([world]40.427631274139394, 68.0, 33.24093383734276)
+[16:29:59] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Gabo PK6665
+[16:29:59] [localSession-7-2/INFO]: [Geyser-Spigot] Gabo PK6665 (logged in as: Gabo_PK6665) has connected to the Java server
+[16:29:59] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Gabo_PK6665 joined (UUID: 00000000-0000-0000-0009-01fc60a0c8d6)
+[16:29:59] [Server thread/INFO]: .Gabo_PK6665 joined the game
+[16:29:59] [Server thread/INFO]: .Gabo_PK6665[/127.0.0.1:0] logged in with entity id 1744 at ([world]9.616659, 67.0, 37.00776)
+[16:31:11] [Server thread/INFO]: .Gabo_PK6665 was shot by Skeleton
+[16:31:40] [Server thread/INFO]: .Maxilaster was shot by Skeleton
+[16:31:48] [Server thread/INFO]: .Gabo_PK6665 was slain by Zombie
+[16:32:24] [Server thread/INFO]: .Gabo_PK6665 was shot by Skeleton
+[16:32:28] [localSession-7-1/INFO]: [Geyser-Spigot] Maxilaster has disconnected from the Java server because of Bedrock client disconnected
+[16:32:28] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Maxilaster disconnected
+[16:32:28] [Server thread/INFO]: .Maxilaster lost connection: Disconnected
+[16:32:28] [Server thread/INFO]: .Maxilaster left the game
+[16:32:55] [Server thread/INFO]: .Gabo_PK6665 was shot by Skeleton
+[16:33:13] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Maxilaster
+[16:33:13] [localSession-7-3/INFO]: [Geyser-Spigot] Maxilaster (logged in as: Maxilaster) has connected to the Java server
+[16:33:14] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Maxilaster joined (UUID: 00000000-0000-0000-0009-01f17765c227)
+[16:33:14] [Server thread/INFO]: .Maxilaster joined the game
+[16:33:14] [Server thread/INFO]: .Maxilaster[/127.0.0.1:0] logged in with entity id 2256 at ([world]42.5, 68.0, 28.5)
+[16:33:39] [Server thread/INFO]: .Gabo_PK6665 was shot by Skeleton
+[16:33:57] [Async Chat Thread - #1/INFO]: [Not Secure] <.Maxilaster> gabo salte
+[16:34:17] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Gabo_PK6665 disconnected
+[16:34:17] [localSession-7-2/INFO]: [Geyser-Spigot] Gabo PK6665 has disconnected from the Java server because of Bedrock client disconnected
+[16:34:17] [Server thread/INFO]: .Gabo_PK6665 lost connection: Disconnected
+[16:34:17] [Server thread/INFO]: .Gabo_PK6665 left the game
+[16:34:41] [Server thread/INFO]: .Maxilaster drowned
+[16:34:52] [localSession-7-3/INFO]: [Geyser-Spigot] Maxilaster has disconnected from the Java server because of Bedrock client disconnected
+[16:34:52] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Maxilaster disconnected
+[16:34:52] [Server thread/INFO]: .Maxilaster lost connection: Disconnected
+[16:34:52] [Server thread/INFO]: .Maxilaster left the game
+[16:35:16] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Maxilaster
+[16:35:16] [localSession-7-4/INFO]: [Geyser-Spigot] Maxilaster (logged in as: Maxilaster) has connected to the Java server
+[16:35:16] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Maxilaster joined (UUID: 00000000-0000-0000-0009-01f17765c227)
+[16:35:16] [Server thread/INFO]: .Maxilaster joined the game
+[16:35:16] [Server thread/INFO]: .Maxilaster[/127.0.0.1:0] logged in with entity id 2457 at ([world]28.784254, 61.0, 10.283973)
