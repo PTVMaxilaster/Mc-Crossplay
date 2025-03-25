@@ -96,3 +96,7 @@
 [17:22:19] [Server thread/INFO]: .Gabo_PK6665[/127.0.0.1:0] logged in with entity id 1628 at ([world]25.361017, 116.0, 39.328907)
 [17:25:09] [Server thread/WARN]: .Gabo_PK6665 moved wrongly!
 [17:25:10] [Server thread/WARN]: .Gabo_PK6665 moved wrongly!
+[17:27:08] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Gabo_PK6665 disconnected
+[17:27:08] [localSession-7-1/INFO]: [Geyser-Spigot] Gabo PK6665 has disconnected from the Java server because of Bedrock client disconnected
+[17:27:08] [Server thread/INFO]: .Gabo_PK6665 lost connection: Disconnected
+[17:27:08] [Server thread/INFO]: .Gabo_PK6665 left the game
