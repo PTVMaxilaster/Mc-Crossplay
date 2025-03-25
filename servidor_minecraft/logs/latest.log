@@ -71,3 +71,21 @@
 [16:51:48] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Maxilaster disconnected
 [16:51:48] [Server thread/INFO]: .Maxilaster lost connection: Disconnected
 [16:51:48] [Server thread/INFO]: .Maxilaster left the game
+[16:55:37] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Gabo PK6665
+[16:55:37] [localSession-7-3/INFO]: [Geyser-Spigot] Gabo PK6665 (logged in as: Gabo_PK6665) has connected to the Java server
+[16:55:38] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Gabo_PK6665 joined (UUID: 00000000-0000-0000-0009-01fc60a0c8d6)
+[16:55:38] [Server thread/INFO]: .Gabo_PK6665 joined the game
+[16:55:38] [Server thread/INFO]: .Gabo_PK6665[/127.0.0.1:0] logged in with entity id 1089 at ([world]-1.5, 123.0, 1.5)
+[16:57:05] [localSession-7-3/INFO]: [Geyser-Spigot] Gabo PK6665 has disconnected from the Java server because of Bedrock client disconnected
+[16:57:05] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Gabo_PK6665 disconnected
+[16:57:05] [Server thread/INFO]: .Gabo_PK6665 lost connection: Disconnected
+[16:57:05] [Server thread/INFO]: .Gabo_PK6665 left the game
+[17:00:11] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Gabo PK6665
+[17:00:11] [localSession-7-4/INFO]: [Geyser-Spigot] Gabo PK6665 (logged in as: Gabo_PK6665) has connected to the Java server
+[17:00:11] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Gabo_PK6665 joined (UUID: 00000000-0000-0000-0009-01fc60a0c8d6)
+[17:00:11] [Server thread/INFO]: .Gabo_PK6665 joined the game
+[17:00:11] [Server thread/INFO]: .Gabo_PK6665[/127.0.0.1:0] logged in with entity id 1322 at ([world]22.046305, 119.0, 40.052856)
+[17:03:35] [localSession-7-4/INFO]: [Geyser-Spigot] Gabo PK6665 has disconnected from the Java server because of Bedrock client disconnected
+[17:03:35] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Gabo_PK6665 disconnected
+[17:03:35] [Server thread/INFO]: .Gabo_PK6665 lost connection: Disconnected
+[17:03:35] [Server thread/INFO]: .Gabo_PK6665 left the game
